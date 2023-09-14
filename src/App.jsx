@@ -1,12 +1,16 @@
 
 import './App.css'
+import Card from './components/Card/Card'
 
 function App() {
   
 
   return (
     <>
-      <h1 className='text-3xl font-bold'>hello</h1>
+     <div className='w-2/3'>
+       
+     <Card></Card>
+     </div>
       
     </>
   )

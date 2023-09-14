@@ -1,0 +1,12 @@
+.cart{
+    width: 300px;
+    height: 400px;
+    border: 2px solid gray;
+}
+.btn{
+    margin-top: 10px;
+    width: 100px;
+    height: 48px;
+    background-color: aqua;
+    border-radius: 10px;
+}
